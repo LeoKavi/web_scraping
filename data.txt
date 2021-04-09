@@ -1,0 +1,96 @@
+Name   realme C11 (Rich Grey, 32 GB)
+Variant   32 GB
+Price   8999
+----------------------------------------
+Name   realme C11 (Rich Green, 32 GB)
+Variant   32 GB
+Price   8999
+----------------------------------------
+Name   REDMI 9i (Sea Blue, 64 GB)
+Variant   64 GB
+Price   9999
+----------------------------------------
+Name   I Kall K450 (Gold, 16 GB)
+Variant   16 GB
+Price   3999
+----------------------------------------
+Name   POCO M3 (Power Black, 128 GB)
+Variant   128 GB
+Price   14999
+----------------------------------------
+Name   realme C12 (Power Silver, 32 GB)
+Variant   32 GB
+Price   10999
+----------------------------------------
+Name   realme C12 (Power Blue, 32 GB)
+Variant   32 GB
+Price   10999
+----------------------------------------
+Name   POCO M3 (Cool Blue, 64 GB)
+Variant   64 GB
+Price   12999
+----------------------------------------
+Name   Redmi 9 Prime (Space Blue, 64 GB)
+Variant   64 GB
+Price   11999
+----------------------------------------
+Name   POCO M2 (Slate Blue, 64 GB)
+Variant   64 GB
+Price   12999
+----------------------------------------
+Name   realme Narzo 30A (Laser Black, 32 GB)
+Variant   32 GB
+Price   9999
+----------------------------------------
+Name   realme Narzo 30A (Laser Blue, 32 GB)
+Variant   32 GB
+Price   9999
+----------------------------------------
+Name   realme Narzo 30A (Laser Blue, 64 GB)
+Variant   64 GB
+Price   10999
+----------------------------------------
+Name   REDMI 9i (Nature Green, 64 GB)
+Variant   64 GB
+Price   9999
+----------------------------------------
+Name   REDMI 9i (Midnight Black, 64 GB)
+Variant   64 GB
+Price   9999
+----------------------------------------
+Name   POCO C3 (Lime Green, 32 GB)
+Variant   32 GB
+Price   9999
+----------------------------------------
+Name   POCO X3 Pro (Graphite Black, 128 GB)
+Variant   128 GB
+Price   23999
+----------------------------------------
+Name   POCO M3 (Power Black, 64 GB)
+Variant   64 GB
+Price   12999
+----------------------------------------
+Name   realme Narzo 20A (Glory Silver, 64 GB)
+Variant   64 GB
+Price   11999
+----------------------------------------
+Name   realme Narzo 30A (Laser Black, 64 GB)
+Variant   64 GB
+Price   10999
+----------------------------------------
+Name   POCO X3 Pro (Steel Blue, 128 GB)
+Variant   128 GB
+Price   23999
+----------------------------------------
+Name   realme 7 (Mist Blue, 128 GB)
+Variant   128 GB
+Price   20999
+----------------------------------------
+Name   realme 7 (Mist Blue, 64 GB)
+Variant   64 GB
+Price   17999
+----------------------------------------
+Name   realme 7 (Mist White, 64 GB)
+Variant   64 GB
+Price   17999
+----------------------------------------
